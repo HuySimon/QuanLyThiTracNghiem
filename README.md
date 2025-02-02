@@ -1,6 +1,7 @@
 # Đồ án Lập trình web và ứng dụng nâng cao
 ### Hướng dẫn cài đặt
-
+Mở Xampp ---> Start Apache và MySQL
+Import file tracnghiemonline.sql vào MySQL (nằm trong thư mục database)
 Cấu hình thông tin database và đường dẫn trang chủ tại file config.php
 
 ### Tài khoản Admin
